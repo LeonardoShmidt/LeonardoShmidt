@@ -1,4 +1,4 @@
-# Olá👋, Me Chamo Leonardo Forti
+# Olá👋,Eu me chamo Leonardo Forti
 
 Estou cursando Ciências da Computação, E busco uma oportunidade de atuar na área de Tecnologia da Informação para desenvolver e consolidar minhas competências em um ambiente desafiador, contribuindo de forma estratégica para a geração de valor, inovação e melhoria contínua dos processos, com foco em evolução profissional e entrega de resultados consistentes.
 
@@ -10,7 +10,7 @@ Estou cursando Ciências da Computação, E busco uma oportunidade de atuar na �
 
 Linguagens
 
-![JavaScript]((https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
-![TypeScript]((https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
-![React]((https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))
+![Python]((https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+![Java]((https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+![C++]((https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))
 
