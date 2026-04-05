@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-leonardoshmidt-181717?style=for-the-badge&logo=github" />
 </p>
 
-#Linguagens
+# Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
